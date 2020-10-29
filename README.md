@@ -1,0 +1,2 @@
+# Lummerland
+Lummerland Server Mapcycle
